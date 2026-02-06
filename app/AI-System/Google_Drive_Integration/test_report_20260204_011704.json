@@ -1,0 +1,72 @@
+{
+  "summary": {
+    "total_tests": 8,
+    "passed_tests": 8,
+    "failed_tests": 0,
+    "success_rate": 100.0
+  },
+  "test_results": [
+    {
+      "test": "Credentials Check",
+      "success": true,
+      "message": "พบไฟล์ credentials: client_secret_834112244195-978r397e12i4fo4hs2sscu383ch73spn.apps.googleusercontent.com.json",
+      "details": "Client ID: 834112244195-978r397...",
+      "timestamp": "2026-02-04T01:16:55.946093"
+    },
+    {
+      "test": "Authentication",
+      "success": true,
+      "message": "เชื่อมต่อ Google Drive สำเร็จ",
+      "details": null,
+      "timestamp": "2026-02-04T01:16:55.975389"
+    },
+    {
+      "test": "List Files",
+      "success": true,
+      "message": "พบไฟล์ทั้งหมด 100 ไฟล์",
+      "details": "ไฟล์ล่าสุด: applet_access_history.json",
+      "timestamp": "2026-02-04T01:16:57.212940"
+    },
+    {
+      "test": "Create Folder",
+      "success": true,
+      "message": "สร้างโฟลเดอร์ 'Diva_AI_Test_20260204_011657' สำเร็จ",
+      "details": "Folder ID: 1Dopci2yUB7eYDM-VeSYI8OUxM5JviYUI",
+      "timestamp": "2026-02-04T01:16:57.678148"
+    },
+    {
+      "test": "Upload File",
+      "success": true,
+      "message": "อัปโหลดไฟล์ 'diva_ai_test_20260204_011657.txt' สำเร็จ",
+      "details": "File ID: 1sDPKiuSisgCIFrdivzSncWs-aZZnNS_5, Size: 592 bytes",
+      "timestamp": "2026-02-04T01:16:59.704889"
+    },
+    {
+      "test": "Download File",
+      "success": true,
+      "message": "ดาวน์โหลดไฟล์สำเร็จ",
+      "details": "Size: 592 bytes, Content Valid: True",
+      "timestamp": "2026-02-04T01:17:00.904918"
+    },
+    {
+      "test": "Search Files",
+      "success": true,
+      "message": "พบไฟล์ที่ตรงกับคำค้นหา 2 ไฟล์",
+      "details": "คำค้นหา: 'diva_ai_test'",
+      "timestamp": "2026-02-04T01:17:03.627961"
+    },
+    {
+      "test": "Cleanup",
+      "success": true,
+      "message": "ลบไฟล์ทดสอบ 1 ไฟล์ และโฟลเดอร์ทดสอบแล้ว",
+      "details": null,
+      "timestamp": "2026-02-04T01:17:04.960167"
+    }
+  ],
+  "timestamp": "2026-02-04T01:17:04.962671",
+  "system_info": {
+    "location": "C:\\Divaparadises\\Divaparadises\\AI-System\\Google_Drive_Integration",
+    "python_version": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "win32"
+  }
+}

@@ -1,0 +1,42 @@
+{
+    "schema_version": "1.0",
+    "last_updated": "2026-02-03",
+    "system_models": {
+        "text_generation": {
+            "default": "gemini-1.5-flash-latest",
+            "reasoning": "gemini-1.5-pro-latest",
+            "legacy": "gemini-pro",
+            "next_gen": {
+                "gemini_2_5_pro": "gemini-2.5-pro",
+                "gemini_2_5_flash": "gemini-2.5-flash",
+                "gemini_3_pro": "gemini-3-pro",
+                "gemini_3_flash": "gemini-3-flash"
+            },
+            "agents": {
+                "deep_research": "deep-research-pro-preview-12-2025"
+            }
+        },
+        "vision": {
+            "default": "gemini-1.5-flash-latest"
+        },
+        "video_generation": {
+            "model": "veo-3.1",
+            "provider": "Google DeepMind"
+        },
+        "audio_generation": {
+            "text_to_speech": "gemini-1.5-flash",
+            "music_generation": "suno-v3"
+        },
+        "embeddings": {
+            "model": "text-embedding-004",
+            "dimension": 768
+        },
+        "local_models": {
+            "wav2lip": {
+                "path": "weights/wav2lip_gan.pth",
+                "required": false,
+                "description": "Lip Sync GAN Model"
+            }
+        }
+    }
+}

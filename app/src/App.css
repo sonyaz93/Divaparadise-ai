@@ -1,0 +1,13 @@
+/* ล้างสไตล์เริ่มต้นของ Vite เพื่อรองรับ Spotify-like layout */
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}

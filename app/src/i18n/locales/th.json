@@ -1,0 +1,188 @@
+{
+  "nav": {
+    "discover": "ค้นพบ",
+    "artists": "ศิลปิน",
+    "charts": "ชาร์ต",
+    "playlists": "เพลย์ลิสต์",
+    "startListening": "เริ่มฟัง"
+  },
+  "hero": {
+    "title": "ค้นพบ",
+    "subtitle": "สิ่งที่คุณหลงใหลครั้งต่อไป",
+    "cta": "เริ่มฟัง",
+    "noCreditCard": "ไม่ต้องใช้บัตรเครดิต ไม่มีโฆษณา มีแต่เพลง"
+  },
+  "featuredArtists": {
+    "title": "ศิลปินแนะนำ",
+    "subtitle": "ค้นพบเสียงที่กำลังสร้างสรรค์เสียงเพลงในยุคนี้"
+  },
+  "trendingSongs": {
+    "title": "กำลังฮิต",
+    "subtitle": "สิ่งที่ทุกคนกำลังฟังอยู่ตอนนี้"
+  },
+  "artistSpotlight": {
+    "title": "ศิลปินไฮไลท์",
+    "subtitle": "ทำความรู้จักศิลปินเบื้องหลังเพลง"
+  },
+  "genreExplorer": {
+    "title": "สำรวจตามแนวเพลง",
+    "subtitle": "ค้นหาสไตล์ของคุณ"
+  },
+  "newReleases": {
+    "title": "เพลงใหม่",
+    "subtitle": "เพลงใหม่ล่าสุดที่เพิ่งออกมา"
+  },
+  "communityPlaylists": {
+    "title": "เพลย์ลิสต์จากชุมชน",
+    "subtitle": "คัดสรรโดยคนรักเพลงเหมือนคุณ"
+  },
+  "newsletter": {
+    "title": "อย่าพลาดทุกจังหวะ",
+    "subtitle": "รับเพลงใหม่ล่าสุด ข่าวสารศิลปิน และคอนเทนต์พิเศษส่งตรงถึงอีเมลของคุณ",
+    "emailPlaceholder": "กรอกอีเมลของคุณ",
+    "subscribe": "สมัครรับข่าวสาร",
+    "privacy": "เราเคารพความเป็นส่วนตัวของคุณ ยกเลิกได้ทุกเมื่อ"
+  },
+  "skills": {
+    "categories": {
+      "react": {
+        "name": "React",
+        "description": "ทักษะและรูปแบบการใช้งาน React framework"
+      },
+      "typescript": {
+        "name": "TypeScript",
+        "description": "ระบบประเภทและรูปแบบการใช้งาน TypeScript"
+      },
+      "webDesign": {
+        "name": "การออกแบบเว็บ",
+        "description": "หลักการออกแบบ UI/UX และแนวทางปฏิบัติ"
+      },
+      "frontend": {
+        "name": "การพัฒนา Frontend",
+        "description": "ทักษะการพัฒนา frontend ทั่วไป"
+      },
+      "testing": {
+        "name": "การทดสอบ",
+        "description": "กลยุทธ์การทดสอบและแนวทางปฏิบัติที่ดี"
+      },
+      "projectManagement": {
+        "name": "การจัดการโครงการ",
+        "description": "ขั้นตอนการทำงานและการทำงานร่วมกัน"
+      },
+      "utilities": {
+        "name": "เครื่องมือช่วยเหลือ",
+        "description": "เครื่องมือช่วยเหลือและการค้นหาทักษะ"
+      },
+      "marketing": {
+        "name": "การตลาด",
+        "description": "กลยุทธ์การตลาดและยุทธวิธีการเติบโต"
+      },
+      "design": {
+        "name": "การออกแบบ",
+        "description": "การออกแบบภาพและการสร้างกราฟิก"
+      },
+      "backend": {
+        "name": "การพัฒนา Backend",
+        "description": "รูปแบบและแนวทางปฏิบัติที่ดีสำหรับการพัฒนาฝั่งเซิร์ฟเวอร์"
+      },
+      "ai": {
+        "name": "AI และ Machine Learning",
+        "description": "เครื่องมือ AI และการประยุกต์ใช้ machine learning"
+      },
+      "development": {
+        "name": "วัฒนธรรมการพัฒนา",
+        "description": "แนวทางการพัฒนาและวัฒนธรรมการเขียนโค้ด"
+      },
+      "desktop": {
+        "name": "การพัฒนาแอปพลิเคชันเดสก์ท็อป",
+        "description": "การพัฒนาแอปพลิเคชันเดสก์ท็อปข้ามแพลตฟอร์ม"
+      },
+      "dataManagement": {
+        "name": "การจัดการข้อมูล",
+        "description": "การจัดระเบียบข้อมูล การเก็บรักษา และระบบจัดเก็บเอกสาร"
+      },
+      "meta": {
+        "name": "ทักษะเมตา",
+        "description": "ทักษะเกี่ยวกับการสร้างและจัดการทักษะ"
+      },
+      "aiIntegration": {
+        "name": "การผสานรวม AI",
+        "description": "การผสานรวมความสามารถของ AI และการขยายตัวแทน AI"
+      },
+      "security": {
+        "name": "ความปลอดภัย",
+        "description": "แนวทางปฏิบัติที่ดีด้านความปลอดภัย การตรวจสอบ และการป้องกันช่องโหว่"
+      }
+    },
+    "items": {
+      "reactBestPractices": "แนวทางปฏิบัติที่ดีสำหรับ React",
+      "reactComponentPatterns": "รูปแบบการออกแบบ Component",
+      "reactHooksGuide": "คู่มือ React Hooks",
+      "reactPerformance": "การเพิ่มประสิทธิภาพ React",
+      "stateManagement": "การจัดการ State ใน React",
+      "tsTypePatterns": "รูปแบบ Type ใน TypeScript",
+      "tsGenerics": "คู่มือ Generics",
+      "tsBestPractices": "แนวทางปฏิบัติที่ดีสำหรับ TypeScript",
+      "accessibility": "การเข้าถึงเว็บ (a11y)",
+      "responsiveDesign": "หลักการออกแบบแบบ Responsive",
+      "colorTheory": "ทฤษฎีสีสำหรับเว็บ",
+      "typography": "คู่มือการใช้ตัวอักษรบนเว็บ",
+      "darkModeDesign": "การออกแบบโหมดมืด",
+      "designSystems": "ระบบการออกแบบ Frontend",
+      "cssBestPractices": "แนวทางปฏิบัติที่ดีสำหรับ CSS",
+      "animationGuide": "คู่มือ Animation บนเว็บ",
+      "seoOptimization": "การเพิ่มประสิทธิภาพ SEO",
+      "performanceOptimization": "การเพิ่มประสิทธิภาพการทำงาน",
+      "unitTesting": "คู่มือการทดสอบหน่วย",
+      "integrationTesting": "การทดสอบแบบบูรณาการ",
+      "gitWorkflow": "แนวทางปฏิบัติที่ดีสำหรับ Git Workflow",
+      "documentation": "คู่มือการเขียนเอกสาร",
+      "findSkills": "เครื่องมือค้นหาทักษะ",
+      "marketingIdeas": "ไอเดียและกลยุทธ์การตลาด",
+      "socialContent": "การสร้างคอนเทนต์โซเชียลมีเดีย",
+      "pricingStrategy": "กลยุทธ์การกำหนดราคาและการเพิ่มประสิทธิภาพ",
+      "signupFlowCro": "การเพิ่มอัตราการแปลงของฟอร์มสมัคร",
+      "copywriting": "การเขียนคอนเทนต์โฆษณา",
+      "canvasDesign": "คู่มือการออกแบบด้วย Canvas",
+      "nodejsBackendPatterns": "รูปแบบการพัฒนา Backend ด้วย Node.js",
+      "webComponentDesign": "การออกแบบ Web Component",
+      "loggingBestPractices": "แนวทางปฏิบัติที่ดีสำหรับ Logging",
+      "apiDesign": "แนวทางปฏิบัติที่ดีสำหรับการออกแบบ API",
+      "databaseDesign": "แนวทางปฏิบัติที่ดีสำหรับการออกแบบฐานข้อมูล",
+      "threejsAnimation": "Animation ด้วย Three.js",
+      "audioPlayerDesign": "การออกแบบเครื่องเล่นเสียง",
+      "mediaStreaming": "การเพิ่มประสิทธิภาพการสตรีมมิ่งมีเดีย",
+      "microInteractions": "การออกแบบ Micro-Interactions",
+      "dataFetching": "การดึงข้อมูลใน React",
+      "fileUploadDownload": "การอัปโหลดและดาวน์โหลดไฟล์",
+      "websocketRealtime": "WebSocket และการสื่อสารแบบเรียลไทม์",
+      "formHandling": "การจัดการฟอร์มและการตรวจสอบความถูกต้อง",
+      "adminDashboard": "การสร้าง Admin Dashboard และการปรับแต่ง",
+      "ecommerceStorefront": "การสร้างหน้าร้านค้าออนไลน์",
+      "dataStorytelling": "การเล่าเรื่องด้วยข้อมูลและการแสดงผล",
+      "cloudStorage": "การผสานรวม Cloud Storage",
+      "authentication": "การยืนยันตัวตนและการอนุญาต",
+      "paypalIntegration": "การผสานรวม PayPal",
+      "billingAutomation": "ระบบเรียกเก็บเงินอัตโนมัติ",
+      "emailGateway": "ระบบส่งอีเมล",
+      "aiVideoGeneration": "การสร้างวิดีโอด้วย AI",
+      "aiMusicGeneration": "การสร้างเพลงด้วย AI",
+      "textToSpeech": "การแปลงข้อความเป็นเสียงพูด (TTS)",
+      "speechToText": "การแปลงเสียงพูดเป็นข้อความ (STT)",
+      "vibeCoding": "การเขียนโค้ดแบบมีสไตล์",
+      "electronDev": "การพัฒนาด้วย Electron",
+      "digitalArchive": "การจัดการจัดเก็บเอกสารดิจิทัล",
+      "skillCreator": "คู่มือการสร้างทักษะ",
+      "mcpBuilder": "คู่มือการสร้าง MCP Server",
+      "aiElements": "AI Elements - คอมโพเนนต์ UI ที่ขับเคลื่อนด้วย AI",
+      "ragImplementation": "การใช้งาน RAG (Retrieval-Augmented Generation)",
+      "conversationMemory": "ระบบความทรงจำและการจัดการบริบทการสนทนา",
+      "securityReview": "คู่มือการตรวจสอบและตรวจสอบความปลอดภัย"
+    },
+    "difficulty": {
+      "beginner": "เริ่มต้น",
+      "intermediate": "ปานกลาง",
+      "advanced": "ขั้นสูง"
+    }
+  }
+}

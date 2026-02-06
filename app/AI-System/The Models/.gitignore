@@ -1,0 +1,13 @@
+# Ignore heavy model weights
+*.pth
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+*.gguf
+*.h5
+*.onnx
+
+# Ignore temporary downloads
+*.tmp
+*.part

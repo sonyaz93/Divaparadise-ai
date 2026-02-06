@@ -1,0 +1,49 @@
+{
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Character Name"
+        },
+        "class": {
+            "type": "string",
+            "enum": [
+                "Warrior",
+                "Mage",
+                "Rogue",
+                "Hacker"
+            ]
+        },
+        "stats": {
+            "type": "object",
+            "properties": {
+                "strength": {
+                    "type": "integer"
+                },
+                "intelligence": {
+                    "type": "integer"
+                },
+                "dexterity": {
+                    "type": "integer"
+                }
+            }
+        },
+        "inventory": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "backstory": {
+            "type": "string",
+            "description": "Short bio"
+        }
+    },
+    "required": [
+        "name",
+        "class",
+        "stats",
+        "inventory",
+        "backstory"
+    ]
+}

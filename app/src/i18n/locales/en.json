@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "discover": "Discover",
+    "artists": "Artists",
+    "charts": "Charts",
+    "playlists": "Playlists",
+    "startListening": "Start Listening"
+  },
+  "hero": {
+    "title": "DISCOVER",
+    "subtitle": "YOUR NEXT OBSESSION",
+    "cta": "Start Listening",
+    "noCreditCard": "No credit card. No ads. Just music."
+  },
+  "featuredArtists": {
+    "title": "Featured Artists",
+    "subtitle": "Discover the voices shaping today's sound"
+  },
+  "trendingSongs": {
+    "title": "Trending Now",
+    "subtitle": "What everyone's listening to right now"
+  },
+  "artistSpotlight": {
+    "title": "Artist Spotlight",
+    "subtitle": "Get to know the artist behind the music"
+  },
+  "genreExplorer": {
+    "title": "Explore by Genre",
+    "subtitle": "Find your vibe"
+  },
+  "newReleases": {
+    "title": "New Releases",
+    "subtitle": "Fresh tracks just dropped"
+  },
+  "communityPlaylists": {
+    "title": "Community Playlists",
+    "subtitle": "Curated by music lovers like you"
+  },
+  "newsletter": {
+    "title": "Never Miss a Beat",
+    "subtitle": "Get the latest releases, artist news, and exclusive content delivered to your inbox.",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "privacy": "We respect your privacy. Unsubscribe anytime."
+  },
+  "skills": {
+    "categories": {
+      "react": {
+        "name": "React",
+        "description": "React framework skills and patterns"
+      },
+      "typescript": {
+        "name": "TypeScript",
+        "description": "TypeScript type system and patterns"
+      },
+      "webDesign": {
+        "name": "Web Design",
+        "description": "UI/UX design principles and guidelines"
+      },
+      "frontend": {
+        "name": "Frontend Development",
+        "description": "General frontend development skills"
+      },
+      "testing": {
+        "name": "Testing",
+        "description": "Testing strategies and best practices"
+      },
+      "projectManagement": {
+        "name": "Project Management",
+        "description": "Project workflow and collaboration"
+      },
+      "utilities": {
+        "name": "Utilities",
+        "description": "Helper tools and skill discovery"
+      },
+      "marketing": {
+        "name": "Marketing",
+        "description": "Marketing strategies and growth tactics"
+      },
+      "design": {
+        "name": "Design",
+        "description": "Visual design and graphic creation"
+      },
+      "backend": {
+        "name": "Backend Development",
+        "description": "Server-side development patterns and best practices"
+      },
+      "ai": {
+        "name": "AI & Machine Learning",
+        "description": "AI tools and machine learning applications"
+      },
+      "development": {
+        "name": "Development Culture",
+        "description": "Development practices and coding culture"
+      },
+      "desktop": {
+        "name": "Desktop Development",
+        "description": "Cross-platform desktop application development"
+      },
+      "dataManagement": {
+        "name": "Data Management",
+        "description": "Data organization, preservation, and archival systems"
+      },
+      "meta": {
+        "name": "Meta Skills",
+        "description": "Skills about creating and managing skills"
+      },
+      "aiIntegration": {
+        "name": "AI Integration",
+        "description": "Integrating AI capabilities and extending AI agents"
+      },
+      "security": {
+        "name": "Security",
+        "description": "Security best practices, auditing, and vulnerability prevention"
+      }
+    },
+    "items": {
+      "reactBestPractices": "React Best Practices",
+      "reactComponentPatterns": "Component Design Patterns",
+      "reactHooksGuide": "React Hooks Guide",
+      "reactPerformance": "React Performance Optimization",
+      "tsTypePatterns": "TypeScript Type Patterns",
+      "tsGenerics": "Generics Guide",
+      "tsBestPractices": "TypeScript Best Practices",
+      "accessibility": "Web Accessibility (a11y)",
+      "responsiveDesign": "Responsive Design Principles",
+      "colorTheory": "Color Theory for Web",
+      "typography": "Web Typography Guide",
+      "designSystems": "Frontend Design Systems",
+      "cssBestPractices": "CSS Best Practices",
+      "animationGuide": "Web Animation Guide",
+      "seoOptimization": "SEO Optimization",
+      "performanceOptimization": "Performance Optimization",
+      "unitTesting": "Unit Testing Guide",
+      "integrationTesting": "Integration Testing",
+      "gitWorkflow": "Git Workflow Best Practices",
+      "documentation": "Documentation Guide",
+      "findSkills": "Find Skills Utility",
+      "marketingIdeas": "Marketing Ideas & Strategies",
+      "socialContent": "Social Content Creation",
+      "pricingStrategy": "Pricing Strategy & Optimization",
+      "signupFlowCro": "Signup Flow CRO",
+      "copywriting": "Copywriting",
+      "canvasDesign": "Canvas Design Guide",
+      "nodejsBackendPatterns": "Node.js Backend Patterns",
+      "webComponentDesign": "Web Component Design",
+      "loggingBestPractices": "Logging Best Practices",
+      "threejsAnimation": "Three.js Animation",
+      "audioPlayerDesign": "Audio Player Design",
+      "mediaStreaming": "Media Streaming Optimization",
+      "microInteractions": "Micro-Interactions Design",
+      "dataFetching": "Data Fetching in React",
+      "fileUploadDownload": "File Upload & Download",
+      "websocketRealtime": "WebSocket & Real-time Communication",
+      "formHandling": "Form Handling & Validation",
+      "adminDashboard": "Building Admin Dashboard & Customizations",
+      "ecommerceStorefront": "Building E-commerce Storefronts",
+      "dataStorytelling": "Data Storytelling & Visualization",
+      "cloudStorage": "Cloud Storage Integration",
+      "authentication": "Authentication & Authorization",
+      "paypalIntegration": "PayPal Integration",
+      "billingAutomation": "Billing Automation",
+      "emailGateway": "Email Gateway",
+      "aiVideoGeneration": "AI Video Generation",
+      "aiMusicGeneration": "AI Music Generation",
+      "textToSpeech": "Text-to-Speech (TTS)",
+      "speechToText": "Speech-to-Text (STT)",
+      "vibeCoding": "Vibe Coding",
+      "electronDev": "Electron Development",
+      "digitalArchive": "Digital Archive Management",
+      "skillCreator": "Skill Creator Guide",
+      "mcpBuilder": "MCP Server Builder Guide",
+      "aiElements": "AI Elements - AI-Powered UI Components",
+      "ragImplementation": "RAG Implementation (Retrieval-Augmented Generation)",
+      "conversationMemory": "Conversation Memory & Context Management",
+      "securityReview": "Security Review & Audit Guide"
+    },
+    "difficulty": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    }
+  }
+}
